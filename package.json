@@ -1,0 +1,18 @@
+{
+  "name": "gzip-teste",
+  "version": "1.0.0",
+  "description": "Compactar transferência de dados ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Amanda Martins <mandi.martins00@gmail.com> (https://github.com/mandimartins)",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
